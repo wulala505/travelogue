@@ -4,15 +4,17 @@ title: About
 permalink: /about/
 ---
 
-Travelogue is a minimal, single-column Jekyll theme that provides an immersive read experience for your readers.
 
-![Post](https://dl.dropboxusercontent.com/u/18322837/GitHub/Travelogue/Post.png)
+### 零基礎學習程式碼之路
 
-## Getting Started
-The theme provides a complete Jekyll setup. Download it and start the Jekyll server.
+由於大學非本科系畢業，剛接觸之初，command-line(命令行)的指令一個都不曉得、
+程式語言有哪些也不清楚，完全就是一張白紙，而周遭的朋友也以文組居多，初學的路上，google成了最好的戰友。
+每次遇到問題，只有無止盡地爬文和開分頁，從這無到有的過程中，也因為沒有底子，所以學到的東西越多，忘記的也越多，
+於是我開始正視自己需要一個地方為這些歷程做紀錄。
 
-    git clone https://github.com/SalGnt/Travelogue.git
-    cd Travelogue
-    jekyll serve
+我的資歷還很淺無法作教學，只是將這些過程中有遇到的問題和心得，做個簡單地紀錄和分享。
+也歡迎有人提出任何問題和指教。
 
-Visit the [Jekyll website](http://jekyllrb.com/) for more information.
+
+
+![Post](/images/obama.jpg)
